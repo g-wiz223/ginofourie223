@@ -1,4 +1,6 @@
+# Gino Fourie
 
+Backend Automation & Operations Systems Engineer
 I build internal tools and backend automations that turn messy business operations into clean, reliable systems.
 
 ## What I work on
