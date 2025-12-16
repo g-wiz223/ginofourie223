@@ -60,4 +60,4 @@ My focus is on **practical backend engineering** — systems that run quietly in
 ## Contact
 - GitHub: **@ginofourie223**
 - LinkedIn: **Gino Fourie**
-- Email: *(add professional email)*
+- Email: *ginofourie@gmail.com*
