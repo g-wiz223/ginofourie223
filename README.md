@@ -14,22 +14,22 @@ I focus on solving real operational problems — not demo apps.
 
 ---
 
-##What I Work On
+## What I Work On
 
-###Automation & Backend Systems
+### Automation & Backend Systems
 - Python automation and scripting
 - Backend integrations (APIs, webhooks, data syncs)
 - File watchers, parsers, and background jobs
 - Lightweight backend systems for SMEs
 
-###Engineering & Manufacturing Systems
+### Engineering & Manufacturing Systems
 - Mechanical design & prototyping
 - Additive manufacturing (FDM, high-temp, industrial)
 - Manufacturing data pipelines  
   *(G-code → usage → inventory → costing)*
 - Scan → Design → Print → Build workflows
 
-###Operations & Finance Systems
+### Operations & Finance Systems
 - Inventory tracking & material usage systems
 - Job costing and margin tracking
 - Asset registers & depreciation logic
@@ -38,7 +38,7 @@ I focus on solving real operational problems — not demo apps.
 
 ---
 
-##Current Focus
+## Current Focus
 - G-code parsing → filament usage & runtime tracking
 - Automated inventory updates via APIs
 - Cost-per-part and cost-per-job calculations
@@ -46,7 +46,7 @@ I focus on solving real operational problems — not demo apps.
 
 ---
 
-##Tools & Tech
+## Tools & Tech
 - **Python**
 - **Git & GitHub**
 - **REST APIs**
@@ -58,7 +58,7 @@ I focus on solving real operational problems — not demo apps.
 
 ---
 
-##How I Add Value
+## How I Add Value
 - Bridge the gap between engineers, ops, and finance
 - Replace spreadsheets with reliable systems
 - Design tools that people actually use
@@ -66,7 +66,7 @@ I focus on solving real operational problems — not demo apps.
 
 ---
 
-##Contact
+## Contact
 - GitHub: **@ginofourie223**
 - LinkedIn: **Gino Fourie**
 - Email: *ginofourie@gmail.com*
