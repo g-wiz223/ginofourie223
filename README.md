@@ -1,48 +1,41 @@
 # 👋 Hi, I’m Gino Fourie
 
-Backend Automation & Operations Systems Engineer  
-Mechanical Design Engineer | Automation & Systems Builder | Additive Manufacturing
+Backend Automation Engineer | Internal Tools & Systems  
+Python • APIs • Data Pipelines • Operations Automation
 
-I build **practical internal tools and systems** that turn messy engineering, manufacturing, and finance operations into **clean, reliable, auditable workflows**.
+I build **backend systems and internal tools** that automate business operations, clean up data, and replace fragile spreadsheets with reliable, auditable workflows.
 
-My background sits at the intersection of:
-- Engineering & manufacturing
-- Backend automation
-- Operations, costing, and finance systems
-
-I focus on solving real operational problems — not demo apps.
+My focus is on **practical backend engineering** — systems that run quietly in the background and keep operations, inventory, and finance in sync.
 
 ---
 
 ## What I Work On
 
-### Automation & Backend Systems
-- Python automation and scripting
-- Backend integrations (APIs, webhooks, data syncs)
+### Backend & Automation
+- Python automation and backend scripting
+- API integrations, webhooks, and data syncs
 - File watchers, parsers, and background jobs
-- Lightweight backend systems for SMEs
-
-### Engineering & Manufacturing Systems
-- Mechanical design & prototyping
-- Additive manufacturing (FDM, high-temp, industrial)
-- Manufacturing data pipelines  
-  *(G-code → usage → inventory → costing)*
-- Scan → Design → Print → Build workflows
+- CSV / JSON pipelines and data normalization
+- Lightweight backend systems for small and medium businesses
 
 ### Operations & Finance Systems
-- Inventory tracking & material usage systems
-- Job costing and margin tracking
-- Asset registers & depreciation logic
-- KPI dashboards (weekly / monthly ops & finance views)
-- Process documentation and system rollouts
+- Inventory tracking & automated stock updates
+- Usage-based costing and margin calculations
+- Job tracking and operational KPIs
+- Asset registers and depreciation logic
+- Process automation for finance & ops workflows
+
+### Applied Engineering Context
+- Manufacturing and production data systems
+- G-code parsing → usage → costing pipelines
+- Systems designed for real-world constraints, not demos
 
 ---
 
 ## Current Focus
-- G-code parsing → filament usage & runtime tracking
-- Automated inventory updates via APIs
-- Cost-per-part and cost-per-job calculations
-- Backend tooling for engineering & manufacturing operations
+- G-code parsing for material usage & runtime tracking
+- Automated inventory and costing updates via APIs
+- Backend tooling for operations and finance teams
 
 ---
 
@@ -53,20 +46,18 @@ I focus on solving real operational problems — not demo apps.
 - **JSON / CSV**
 - **VSCodium / VS Code**
 - **Notion-style operational databases**
-- **SolidWorks / CAD**
-- **3D Printing** (Prusa, Bambu, Creality, HT90)
 
 ---
 
 ## How I Add Value
-- Bridge the gap between engineers, ops, and finance
-- Replace spreadsheets with reliable systems
-- Design tools that people actually use
-- Think in workflows, not just features
+- Turn messy operational data into structured systems
+- Build backend tools that non-technical teams rely on
+- Design systems with traceability, cost control, and scalability in mind
+- Think in workflows, not just endpoints
 
 ---
 
 ## Contact
 - GitHub: **@ginofourie223**
 - LinkedIn: **Gino Fourie**
-- Email: *ginofourie@gmail.com*
+- Email: *(add professional email)*
